@@ -3,7 +3,7 @@
 A conversational AI agent for streamlining customer onboarding in banking/fintech.
 
 ##  Quick Start
-\`\`\`bash
+
 # Clone and install
 git clone https://github.com/ShyamalThakur/winvesta-ai-onboarding-agent
 cd winvesta-ai-onboarding-agent
